@@ -12,7 +12,7 @@ class Dog
     @name = name
   end
   
-  Dog.new = "fido"
+  Dog.new = ("fido")
   Dog.name 
  
 end
